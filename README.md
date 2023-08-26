@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @vivek6311
+- 👋 Hi, I’m Vivek Kumar
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python and ML
+- 🌱 I’m learning Python and ML
 - 💞️ I’m looking to collaborate on Data science Projects
 
 <!---
